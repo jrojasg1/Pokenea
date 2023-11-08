@@ -44,7 +44,7 @@ static pokeneas = [
        'height' : 1.63, 
        'hability':'Importaculismo', 
        'image':'https://storage.googleapis.com/imagespokenea_bucket/magnezone.png',
-       'phrase':'Oeeee, fuck you men gonorrea',
+       'phrase':'Oeeee, f**k you men g0n#$rr3@',
        'color' : 'text-bg-dark'
     },
     {
