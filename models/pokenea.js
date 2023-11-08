@@ -67,9 +67,6 @@ static pokeneas = [
     }
 
    ];
-
-   
-
 }
 
 module.exports = pokenea;

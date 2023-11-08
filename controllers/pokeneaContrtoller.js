@@ -6,8 +6,8 @@ class pokeneaContrtoller {
       const pokeneas = pokeneaModel.pokeneas;
       const number = Math.floor(Math.random() * 7);
       const viewData = {
-         pokenea: pokeneas[number]
-         
+         pokenea: pokeneas[number],
+         docker: os.hostname
       };
       res.json({ viewData });
    }
