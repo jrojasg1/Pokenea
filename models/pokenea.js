@@ -17,7 +17,7 @@ static pokeneas = [
        'height' :1.64, 
        'hability':'Pequeño tamaño gran personalidad', 
        'image':'https://storage.googleapis.com/imagespokenea_bucket/PabloEscavalier.png',
-       'phrase':'Yo le doy lengua a lo mango',
+       'phrase':'Cinco contra uno, pierde el que escupa',
        'color' : 'text-bg-secondary'
     },
     {
